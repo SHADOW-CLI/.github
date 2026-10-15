@@ -24,3 +24,4 @@ True hacker mindset: curiosity, precision, no shortcuts that break trust.
 - Network and systems notes
 - Learning and education projects
 - Defensive security work
+- Grinding 
